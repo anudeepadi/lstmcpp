@@ -1,7 +1,7 @@
 # LSTM from Scratch in C++
 
 ## Overview
-This repository contains an implementation of a Long Short-Term Memory (LSTM) neural network written from scratch in C++, as described in my blog post ["I Built an LSTM from Scratch in C++. Here's What I Learned."](https://medium.com/@anudeepadi/i-built-an-lstm-from-scratch-in-c-heres-what-i-learned-92067a75fa4)
+This repository contains an implementation of a Long Short-Term Memory (LSTM) neural network written from scratch in C++, as described in my blog post ["I Built an LSTM from Scratch in C++. Here's What I Learned."](https://medium.com/@anudeepadi/i-built-an-lstm-from-scratch-in-c-heres-what-i-learned-defed7b90949)
 
 This project was created to understand the inner workings of LSTM networks at a fundamental level, without relying on machine learning frameworks or libraries.
 
